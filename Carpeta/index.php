@@ -1,5 +1,5 @@
-<?php require_once ('header_menu_sectionLogo.php'); ?>
-<?php require_once ('header_menu.php'); ?>
+<?php require_once('header_menu_sectionLogo.php'); ?>
+<?php require_once('header_menu.php'); ?>
 
 <div class="page-wrapper d-flex justify-content-center align-items-center">
     <div class="container container-tight py-4">
@@ -7,5 +7,4 @@
     </div>
 </div>
 
-
-<?php require_once ('footer.php'); ?>
+<?php require_once('footer.php'); ?>

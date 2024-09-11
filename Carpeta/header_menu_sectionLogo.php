@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>
-    My Creative Portfolio
+    CodeCrafters
   </title>
   <!-- CSS files -->
   <link href="../dist/css/tabler.min.css?1684106062" rel="stylesheet" />
@@ -19,33 +19,33 @@
 
   </style>
   <style>
-    @import url("https://rsms.me/inter/inter.css");
+  @import url("https://rsms.me/inter/inter.css");
 
-    :root {
-      --tblr-font-sans-serif: "Inter Var", -apple-system, BlinkMacSystemFont,
-        San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif;
-    }
+  :root {
+    --tblr-font-sans-serif: "Inter Var", -apple-system, BlinkMacSystemFont,
+      San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif;
+  }
 
-    body {
-      font-feature-settings: "cv03", "cv04", "cv11";
-    }
+  body {
+    font-feature-settings: "cv03", "cv04", "cv11";
+  }
   </style>
   <style>
-    .error-container {
-      display: flex;
-      align-items: center;
-    }
+  .error-container {
+    display: flex;
+    align-items: center;
+  }
 
-    .error {
-      color: crimson;
-      font-size: smaller;
-      margin-right: 10px;
-      /* Ajusta el margen entre el ícono y el mensaje de error según sea necesario */
-    }
+  .error {
+    color: crimson;
+    font-size: smaller;
+    margin-right: 10px;
+    /* Ajusta el margen entre el ícono y el mensaje de error según sea necesario */
+  }
 
-    .error-icon {
-      color: crimson;
-    }
+  .error-icon {
+    color: crimson;
+  }
   </style>
 
   <script src="https://kit.fontawesome.com/e6b9a81de9.js" crossorigin="anonymous"></script>
@@ -64,10 +64,10 @@
         </button>
         <h1 style="font-family: cursive;"
           class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
-          My Creative Portfolio
+          CodeCrafters
           <a class="nav-link" href="./">
-            <span
-              class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/home -->
+            <span class="nav-link-icon d-md-none d-lg-inline-block">
+              <!-- Download SVG icon from http://tabler-icons.io/i/home -->
               <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24"
                 stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>

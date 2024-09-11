@@ -39,7 +39,6 @@
       </div>
     </div>
   </div>
-
   <div class="container my-5">
     <!-- Testimonios o reseñas -->
     <h2 class="text-center mb-4">Lo que dicen nuestros clientes</h2>

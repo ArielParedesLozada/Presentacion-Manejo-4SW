@@ -23,9 +23,10 @@
 </footer>
 <!-- Libs JS -->
 <script src="../dist/libs/apexcharts/dist/apexcharts.min.js?1684106062" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="../dist/libs/jsvectormap/dist/js/jsvectormap.min.js?1684106062" defer></script>
 <script src="../dist/libs/jsvectormap/dist/maps/world.js?1684106062" defer></script>
-<script src="../dist/libs/jsvectormap/dist/maps/world-merc.js?1684106062" defer></script>
+<script src="../dist/libs/jsvectormap/dist/map  s/world-merc.js?1684106062" defer></script>
 <!-- Tabler Core -->
 <script src="../dist/js/tabler.min.js?1684106062" defer></script>
 <script src="../dist/js/demo.min.js?1684106062" defer></script>
@@ -37,27 +38,29 @@
 <script src="../dist/libs/SweetAlert2/SweetAlert2.js"></script>
 
 <script>
-  function mostrarModalDeAdvertencia(mensaje) {
+function mostrarModalDeAdvertencia(mensaje) {
 
-    Swal.fire({
-      icon: 'warning',
-      title: 'Alerta',
-      text: mensaje,
-      confirmButtonText: 'Aceptar'
-    });
-  }
+  Swal.fire({
+    icon: 'warning',
+    title: 'Alerta',
+    text: mensaje,
+    confirmButtonText: 'Aceptar'
+  });
+}
 
-  function mostrarModalExito(mensaje) {
-    Swal.fire({
-      position: "center",
-      icon: "success",
-      title: mensaje,
-      showConfirmButton: false,
-      timer: 2500
-    });
+function mostrarModalExito(mensaje) {
+  Swal.fire({
+    position: "center",
+    icon: "success",
+    title: mensaje,
+    showConfirmButton: false,
+    timer: 2500
+  });
 
-  }
+}
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </body>
 
 </html>

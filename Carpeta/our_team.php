@@ -342,7 +342,6 @@
     }
 </style>
 
-
 <div class="responsive-container-block container">
     <p class="text-blk team-head-text">
         Our Team

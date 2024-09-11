@@ -11,7 +11,7 @@
     if (isset($_GET['decimal'])) {
         $decimal = $_GET['decimal'];
         $resultado = decbin($decimal);
-        echo $resultado;
+        echo "El número en binario es: ".$resultado;
     }
     ?>
 </div>

@@ -11,7 +11,7 @@
     if (isset($_GET['decimal'])) {
         $decimal = $_GET['decimal'];
         $resultado = dechex($decimal);
-        echo $resultado;
+        echo "El número en hexadecimal es: ".$resultado;
     }
     ?>
 </div>

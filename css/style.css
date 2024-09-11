@@ -1,0 +1,94 @@
+/* Estilo para la sección */
+.ftco-section.bg-hero {
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0;
+  color: #333; /* Cambiar el color del texto a un tono oscuro para mejor contraste en fondo blanco */
+}
+
+.ftco-section .container {
+  max-width: 1200px;
+}
+
+.heading-section {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+  color: #333; /* Color del encabezado en tono oscuro para contraste */
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.info-wrap,
+.contact-wrap {
+  background-color: #fff; /* Fondo blanco sólido para que se integre bien con la página */
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave para destacar sobre el fondo blanco */
+}
+
+.info-wrap h3,
+.contact-wrap h3 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #333; /* Color oscuro para los encabezados dentro de los contenedores */
+}
+
+.dbox {
+  display: flex;
+  align-items: start;
+  margin-bottom: 20px;
+}
+
+.dbox .icon {
+  font-size: 1.5rem;
+  color: #007bff;
+  margin-right: 15px;
+}
+
+.dbox .text p {
+  margin: 0;
+  font-size: 1rem;
+  color: #333; /* Color oscuro para el texto dentro de las cajas de información */
+}
+
+.dbox .text a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.dbox .text a:hover {
+  text-decoration: underline;
+}
+
+.form-control {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}

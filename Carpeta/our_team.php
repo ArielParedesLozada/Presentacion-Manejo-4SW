@@ -363,11 +363,11 @@
                     manera eficiente y en tiempo.
                 </p>
                 <div class="social-icons">
-                    <a href="https://www.twitter.com" target="_blank">
+                    <a target="_blank">
                         <img class="twitter-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
                     </a>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a target="_blank">
                         <img class="facebook-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
                     </a>
@@ -390,11 +390,11 @@
                     proyecto.
                 </p>
                 <div class="social-icons">
-                    <a href="https://www.twitter.com" target="_blank">
+                    <a target="_blank">
                         <img class="twitter-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
                     </a>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a target="_blank">
                         <img class="facebook-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
                     </a>
@@ -417,11 +417,11 @@
                     visualmente atractiva.
                 </p>
                 <div class="social-icons">
-                    <a href="https://www.twitter.com" target="_blank">
+                    <a target="_blank">
                         <img class="twitter-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
                     </a>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a target="_blank">
                         <img class="facebook-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
                     </a>
@@ -443,11 +443,11 @@
                     Se enfoca en garantizar que el producto final sea de alta calidad.
                 </p>
                 <div class="social-icons">
-                    <a href="https://www.twitter.com" target="_blank">
+                    <a target="_blank">
                         <img class="twitter-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
                     </a>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a target="_blank">
                         <img class="facebook-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
                     </a>
@@ -469,11 +469,11 @@
                     Es responsable de mantener la documentación clara y accesible para el equipo.
                 </p>
                 <div class="social-icons">
-                    <a href="https://www.twitter.com" target="_blank">
+                    <a target="_blank">
                         <img class="twitter-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
                     </a>
-                    <a href="https://www.facebook.com" target="_blank">
+                    <a target="_blank">
                         <img class="facebook-icon"
                             src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
                     </a>

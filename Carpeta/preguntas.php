@@ -2,18 +2,18 @@
 <?php require_once('header_menu.php'); ?>
 
 <style>
-  /* Añadir margen superior para separar la barra de navegación del contenido */
-  .page-wrapper {
-    margin-top: 20px;
-    /* Ajusta el valor según sea necesario */
-  }
+/* Añadir margen superior para separar la barra de navegación del contenido */
+.page-wrapper {
+  margin-top: 20px;
+  /* Ajusta el valor según sea necesario */
+}
 
-  /* Estilos para mejorar la apariencia de las imágenes */
-  .accordion-body img {
-    max-width: 100%;
-    border-radius: 8px;
-    margin-top: 10px;
-  }
+/* Estilos para mejorar la apariencia de las imágenes */
+.accordion-body img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
 </style>
 
 <div class="page-wrapper d-flex justify-content-center align-items-center">
@@ -33,7 +33,7 @@
           </div>
 
           <div>
-            <h2 class="mb-3">1. Servicios de Diseño Web</h2>
+            <h2 class="mb-3">Servicios de Diseño Web</h2>
             <div id="faq-1" class="accordion" role="tablist" aria-multiselectable="true">
               <!-- Pregunta 1 -->
               <div class="accordion-item">
